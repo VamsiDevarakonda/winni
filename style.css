@@ -134,7 +134,8 @@ h4{
     .body3 h1,.body6 h1,.body8 h1{
         margin-right: 1px;
         margin-left: 100px;
-        transform:tanslate(-50%,-50%)
+        transform:tanslate(-50%,-50%);
+        font-size:20px;
     }
  .navbar1{
         position:relative;
@@ -144,7 +145,8 @@ h4{
     .body3 h1,.body6 h1,.body8 h1{
         margin-right: 1px;
         margin-left: 1px;
-        transform:tanslate(-0%,-50%)
+        transform:tanslate(-0%,-50%);
+        font-size:20px;
     }
  .navbar1{
         position:relative;
@@ -154,14 +156,15 @@ h4{
     .body3 h1,.body6 h1,.body8 h1{
         margin-right: 1px;
         margin-left: 1px;
-        transform:tanslate(0%,-50%)
+        transform:tanslate(0%,-50%);
+        font-size:20px;
      
     }
   .hive .button1{
-        transform:tanslate(-50%,-50%)
+        transform:tanslate(-50%,-50%);
     }
     .hive .final{
-        transform:tanslate(-50%,-50%)
+        transform:tanslate(-50%,-50%);
     }
  .navbar1{
         position:relative;
@@ -171,13 +174,14 @@ h4{
     .body3 h1,.body6 h1,.body8 h1{
         margin-right: 1px;
         margin-left: 1px;
-        transform:tanslate(0%,-50%)
+        transform:tanslate(0%,-50%);
+        font-size:20px;
     }
   .hive .button1{
-        transform:tanslate(-50%,-50%)
+        transform:tanslate(-50%,-50%);
     }
     .hive .final{
-        transform:tanslate(-50%,-50%)
+        transform:tanslate(-50%,-50%);
     }
  .navbar1{
         position:relative;

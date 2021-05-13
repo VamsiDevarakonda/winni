@@ -137,7 +137,7 @@ h4{
         transform:tanslate(-50%,-50%);
         font-size:20px;
     }
- .navbar1{
+ .navbar1,.navbar2{
         position:relative;
     }
 }
@@ -148,7 +148,7 @@ h4{
         transform:tanslate(-0%,-50%);
         font-size:20px;
     }
- .navbar1{
+ .navbar1,.navbar2{
         position:relative;
     }
 }
@@ -166,7 +166,7 @@ h4{
     .hive .final{
         transform:tanslate(-50%,-50%);
     }
- .navbar1{
+ .navbar1,.navbar2{
         position:relative;
     }
 }
@@ -183,7 +183,7 @@ h4{
     .hive .final{
         transform:tanslate(-50%,-50%);
     }
- .navbar1{
+ .navbar1,.navbar2{
         position:relative;
     }
 }

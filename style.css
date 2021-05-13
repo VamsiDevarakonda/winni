@@ -136,8 +136,12 @@ h4{
         transform:tanslate(-50%,-50%);
         font-size:20px;
     }
- .navbar1,.navbar2{
+ .navbar1{
         position:relative;
+    }
+ .navbar2{
+        padding-top: 0px;
+        position: relative;
     }
 }
 @media (max-width:250px){
@@ -147,8 +151,12 @@ h4{
         transform:tanslate(-0%,-50%);
         font-size:20px;
     }
- .navbar1,.navbar2{
+ .navbar1{
         position:relative;
+    }
+ .navbar2{
+        padding-top: 0px;
+        position: relative;
     }
 }
 @media (max-width:100px){
@@ -165,8 +173,12 @@ h4{
     .hive .final{
         transform:tanslate(-50%,-50%);
     }
- .navbar1,.navbar2{
+ .navbar1{
         position:relative;
+    }
+ .navbar2{
+        padding-top: 0px;
+        position: relative;
     }
 }
 @media (max-width:50px){
@@ -182,8 +194,12 @@ h4{
     .hive .final{
         transform:tanslate(-50%,-50%);
     }
- .navbar1,.navbar2{
+ .navbar1{
         position:relative;
+    }
+ .navbar2{
+        padding-top: 0px;
+        position: relative;
     }
 }
 .footer{

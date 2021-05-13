@@ -136,12 +136,18 @@ h4{
         margin-left: 100px;
         transform:tanslate(-50%,-50%)
     }
+ .navbar1{
+        position:relative;
+    }
 }
 @media (max-width:250px){
     .body3 h1,.body6 h1,.body8 h1{
         margin-right: 1px;
         margin-left: 1px;
         transform:tanslate(-0%,-50%)
+    }
+ .navbar1{
+        position:relative;
     }
 }
 @media (max-width:100px){
@@ -157,19 +163,24 @@ h4{
     .hive .final{
         transform:tanslate(-50%,-50%)
     }
+ .navbar1{
+        position:relative;
+    }
 }
 @media (max-width:50px){
     .body3 h1,.body6 h1,.body8 h1{
         margin-right: 1px;
         margin-left: 1px;
         transform:tanslate(0%,-50%)
-     
     }
   .hive .button1{
         transform:tanslate(-50%,-50%)
     }
     .hive .final{
         transform:tanslate(-50%,-50%)
+    }
+ .navbar1{
+        position:relative;
     }
 }
 .footer{

@@ -140,14 +140,14 @@ h4{
 @media (max-width:250px){
     .body3 h1,.body6 h1,.body8 h1{
         margin-right: 1px;
-        margin-left: 50px;
+        margin-left: 1px;
         transform:tanslate(-50%,-50%)
     }
 }
 @media (max-width:100px){
     .body3 h1,.body6 h1,.body8 h1{
         margin-right: 1px;
-        margin-left: 10px;
+        margin-left: 1px;
         transform:tanslate(-50%,-50%)
      
     }

@@ -152,9 +152,9 @@ h4{
      
     }
   .hive .button1{
-        transform:tanslate(-50%,100%)
+        transform:tanslate(-50%,-50%)
     }
     .hive .final{
-        transform:tanslate(-50%,100%)
+        transform:tanslate(-50%,-50%)
     }
 }
